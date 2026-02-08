@@ -169,7 +169,9 @@ def generate_manual_list():
     df = df.drop_duplicates().sort_values("institution")
 
     # Guardamos en la subcarpeta
-    df.to_csv(data_dir / "lista_univ_arg.csv", index=False, encoding="utf-8-sig")
+    df.to_csv(
+        data_dir / "lista_universidades_arg.csv", index=False, encoding="utf-8-sig"
+    )
 
     print(f"--- ¡Padrón Definitivo Generado! ---")
     print(f"Total instituciones: {len(df)}")
