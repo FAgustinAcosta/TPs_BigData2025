@@ -55,7 +55,7 @@ def get_search_queries(university):
             "Fonoaudiología",
             "Enfermería",
             "Veterinaria",
-            "Medicina Veterinaria"
+            "Medicina Veterinaria",
         ],
         "Contador": [
             "Contador Público",
@@ -79,14 +79,8 @@ def get_search_queries(university):
             "Actuario",
             "Licenciatura en Administración Pública",
             "Licenciatura en Administración Hotelera",
-            ""
         ],
-        "Marketing": [
-            "Marketing",
-            "Comercialización",
-            "Mercadotecnia",
-            "Publicidad"
-        ],
+        "Marketing": ["Marketing", "Comercialización", "Mercadotecnia", "Publicidad"],
         "Recursos_Humanos": [
             "Licenciatura en Administración de Recursos Humanos",
             "Recursos Humanos",
@@ -100,7 +94,7 @@ def get_search_queries(university):
             "Economics",
             "Licenciado en Economía",
             "Economista",
-            "Economist"
+            "Economist",
         ],
         # --- BLOQUE 3: STEM (Ingeniería y Tech) ---
         "Sistemas_Informática": [
@@ -123,7 +117,7 @@ def get_search_queries(university):
             "Ingeniería en Computación",
             "Ingeniería en Ciencia de Datos",
             "Ingeniería en Telecomunicaciones",
-            "Ingeniería en Transporte"
+            "Ingeniería en Transporte",
         ],
         "Ingenierias": [
             "Ingeniería",
@@ -162,13 +156,13 @@ def get_search_queries(university):
             "Ingeniería Zootecnista",
             "Ingeniería en Alimentos",
             "Ingeniería en Recursos Naturales",
-            "Ingeniería Forestal"
+            "Ingeniería Forestal",
             "Ingeniería en Agrimensura",
-            "Licenciatura en Geología"
+            "Licenciatura en Geología",
             "Geología",
             "Licenciatura en Ciencias Geológicas",
-            "Licenciatura en Administración Rural"
-        ]
+            "Licenciatura en Administración Rural",
+        ],
         # --- BLOQUE 4: CIENCIAS SOCIALES Y HUMANAS ---
         "Humanidades": [
             "Licenciatura en Antropología",
@@ -179,14 +173,14 @@ def get_search_queries(university):
             "Licenciatura en Historia",
             "Historia",
             "Licenciatura en Geografía",
-            "Geografía"
+            "Geografía",
         ],
         "Comunicación": [
             "Licenciatura en Comunicación Social",
             "Comunicación Social",
             "Periodismo",
             "Communication",
-            "Profesorado"
+            "Profesorado",
         ],
         "Ciencias_Politicas": [
             "Ciencia Política",
