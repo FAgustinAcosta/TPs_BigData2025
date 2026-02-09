@@ -30,7 +30,7 @@ def generate_manual_list():
         "Universidad de la Ciudad de Buenos Aires",
         "Universidad Nacional del Comahue",
         "Universidad Nacional de los Comechingones",
-        "universidad Nacional de Córdoba",
+        "Universidad Nacional de Córdoba",
         "Universidad Provincial de Córdoba",
         "Universidad Nacional de Cuyo",
         "Universidad de la Defensa Nacional",
