@@ -9,7 +9,7 @@ from pathlib import Path
 from urllib.parse import quote  # Para encodear URLs correctamente
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
-from config_carreras import get_search_queries
+from Intento_scrapping.config_carreras import get_search_queries
 
 # --- 1. CONFIGURACIÓN DE CONSOLA ---
 sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8", line_buffering=True)
